@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment / secrets
+.env
+
+# Project outputs (test runs, generated JSON)
+output.json
+*_output.json
+resume.json
+real_resume.json
+
+# Sample/test resume inputs (avoid committing personal data)
+sample_resume.txt
+real_resume.txt
+*_resume.txt
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
