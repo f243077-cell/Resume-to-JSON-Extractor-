@@ -4,6 +4,7 @@ __pycache__/
 *.egg-info/
 .eggs/
 *.egg
+.pytest_cache/
 
 # Virtual environments
 venv/
